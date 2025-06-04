@@ -5,11 +5,14 @@ Execute
 git init
 git remote add origin https://github.com/ale1605/misc.git
 git add filename.txt
-git branch -M main
-git push -u origin main
 git commit -m "initial commit"
 git config --global user.name "ale1605"
 git config --global user.email "sharanbandreddi415@gmail.com"
-git commit -m "initial commit"
 git branch -M main
 git push -u origin main
+prompt appears, type your username, "ale1605"
+prompt appears, type your password, "paste the token"
+
+To create token go to:
+create a classic one with all privileges
+https://github.com/settings/tokens
